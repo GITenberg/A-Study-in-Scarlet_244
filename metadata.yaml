@@ -1,5 +1,8 @@
 _repo: A-Study-in-Scarlet_244
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -29,6 +32,8 @@ description: "A Study in Scarlet is an 1887 detective novel by British author Ar
   \ was followed by The Sign of the Four, published in 1890. A Study in Scarlet was\
   \ the first work of detective fiction to incorporate the magnifying glass as an\
   \ investigative tool.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/244#A-Study-in-Scarlet
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '1995-04-01'
 gutenberg_type: Text
