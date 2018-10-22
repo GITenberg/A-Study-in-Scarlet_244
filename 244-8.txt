@@ -12,7 +12,7 @@ Author: Arthur Conan Doyle
 
 Posting Date: July 12, 2008 [EBook #244]
 Release Date: April, 1995
-[Last updated: June 14, 2012]
+[Last updated: February 17, 2013]
 
 Language: English
 
@@ -50,17 +50,17 @@ By A. Conan Doyle
      policy to reformat the text to conform to present PG Standards.
      In this case however, in consideration of the note above of the
      original transcriber describing his care to try to duplicate the
-     original 1887 edtion as to typography and punctuation vagaries,
+     original 1887 edition as to typography and punctuation vagaries,
      no changes have been made in this ascii text file. However, in
      the Latin-1 file and this html file, present standards are
      followed and the several French and Spanish words have been
      given their proper accents.
-	 
+
 	 Part II, The Country of the Saints, deals much with the Mormon Church.
 
 
 
-	 
+
 A STUDY IN SCARLET.
 
 
@@ -318,7 +318,7 @@ enthusiasm.
 "There was the case of Von Bischoff at Frankfort last year. He would
 certainly have been hung had this test been in existence. Then there was
 Mason of Bradford, and the notorious Muller, and Lefevre of Montpellier,
-and Samson of new Orleans. I could name a score of cases in which it
+and Samson of New Orleans. I could name a score of cases in which it
 would have been decisive."
 
 "You seem to be a walking calendar of crime," said Stamford with a
@@ -734,7 +734,7 @@ querulously. "What is the use of having brains in our profession. I know
 well that I have it in me to make my name famous. No man lives or has
 ever lived who has brought the same amount of study and of natural
 talent to the detection of crime which I have done. And what is the
-result? There is no crime to detect, or, at most, some bungling villany
+result? There is no crime to detect, or, at most, some bungling villainy
 with a motive so transparent that even a Scotland Yard official can see
 through it."
 
@@ -1391,7 +1391,7 @@ though a cab or two went past me. I was a strollin' down, thinkin'
 between ourselves how uncommon handy a four of gin hot would be, when
 suddenly the glint of a light caught my eye in the window of that same
 house. Now, I knew that them two houses in Lauriston Gardens was empty
-on account of him that owns them who won't have the drains seed to,
+on account of him that owns them who won't have the drains seen to,
 though the very last tenant what lived in one of them died o' typhoid
 fever. I was knocked all in a heap therefore at seeing a light in
 the window, and I suspected as something was wrong. When I got to the
